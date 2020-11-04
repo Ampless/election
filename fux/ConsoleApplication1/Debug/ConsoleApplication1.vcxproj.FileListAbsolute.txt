@@ -1,0 +1,2 @@
+C:\Users\chris\Documents\GitHub\election\fux\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\chris\Documents\GitHub\election\fux\ConsoleApplication1\Debug\ConsoleApplication1.pdb
